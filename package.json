@@ -30,7 +30,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "pretty-quick": "pretty-quick"
+    "pretty-quick": "pretty-quick",
+    "postinstall": "husky install"
   },
   "husky": {
     "hooks": {
@@ -57,6 +58,7 @@
   },
   "devDependencies": {
     "husky": "^5.1.1",
+    "pinst": "^2.1.6",
     "prettier": "^2.2.1",
     "pretty-quick": "^3.1.0"
   }
