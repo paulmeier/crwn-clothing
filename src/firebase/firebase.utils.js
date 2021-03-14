@@ -3,7 +3,7 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: process.env.FIREBASE_API_KEY,
+  apiKey: "AIzaSyAkG6KF8vW_sEIlmJ1AbR9bKGG9rNr7fWs",
   authDomain: "crwn-db-d47a7.firebaseapp.com",
   projectId: "crwn-db-d47a7",
   storageBucket: "crwn-db-d47a7.appspot.com",
